@@ -1,1 +1,26 @@
+# MelodyVerse Authentication App
+
+This project implements a login and signup functionality for a fictional music streaming service called "MelodyVerse". It uses Node.js, Express, React, and JWT for authentication.
+
+## Features
+
+- User Registration and Login
+- JWT-based Authentication
+- Protected Routes
+- Responsive Design with Tailwind CSS
+- Form Validation with Formik and Yup
+
+## Requirements
+
+- Node.js and npm
+- MongoDB (or your preferred database)
+
+## Setup Instructions
+
+### Backend
+
+1. Clone the repository and navigate to the backend directory:
+   ```bash
+   git clone <repository-url>
+   cd backend
 
